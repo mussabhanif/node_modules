@@ -1,0 +1,140 @@
+{
+  "hash": "eef6d3f7",
+  "browserHash": "b5376a3e",
+  "optimized": {
+    "@inertiajs/inertia-vue3": {
+      "src": "../../@inertiajs/inertia-vue3/dist/index.js",
+      "file": "@inertiajs_inertia-vue3.js",
+      "fileHash": "4e0348b8",
+      "needsInterop": true
+    },
+    "@inertiajs/progress": {
+      "src": "../../@inertiajs/progress/dist/index.js",
+      "file": "@inertiajs_progress.js",
+      "fileHash": "3db4bdc3",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../axios/index.js",
+      "file": "axios.js",
+      "fileHash": "6f235c6d",
+      "needsInterop": true
+    },
+    "firebase/app": {
+      "src": "../../firebase/app/dist/esm/index.esm.js",
+      "file": "firebase_app.js",
+      "fileHash": "c01a47c2",
+      "needsInterop": false
+    },
+    "firebase/auth": {
+      "src": "../../firebase/auth/dist/esm/index.esm.js",
+      "file": "firebase_auth.js",
+      "fileHash": "475a66cc",
+      "needsInterop": false
+    },
+    "laravel-vite-plugin/inertia-helpers": {
+      "src": "../../laravel-vite-plugin/inertia-helpers/index.js",
+      "file": "laravel-vite-plugin_inertia-helpers.js",
+      "fileHash": "decfed4e",
+      "needsInterop": false
+    },
+    "lodash": {
+      "src": "../../lodash/lodash.js",
+      "file": "lodash.js",
+      "fileHash": "314add76",
+      "needsInterop": true
+    },
+    "moment": {
+      "src": "../../moment/dist/moment.js",
+      "file": "moment.js",
+      "fileHash": "173d6318",
+      "needsInterop": true
+    },
+    "pinia": {
+      "src": "../../pinia/dist/pinia.mjs",
+      "file": "pinia.js",
+      "fileHash": "9ed4d2eb",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "f8abf5fa",
+      "needsInterop": false
+    },
+    "vue-paypal-checkout": {
+      "src": "../../vue-paypal-checkout/dist/vue-paypal-checkout.esm.js",
+      "file": "vue-paypal-checkout.js",
+      "fileHash": "e4137aa0",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "bf62457d",
+      "needsInterop": false
+    },
+    "vue-stripe-js": {
+      "src": "../../vue-stripe-js/dist/vue-stripe.es.js",
+      "file": "vue-stripe-js.js",
+      "fileHash": "27f88d3a",
+      "needsInterop": false
+    },
+    "vue-sweetalert2": {
+      "src": "../../vue-sweetalert2/dist/vue-sweetalert.es.js",
+      "file": "vue-sweetalert2.js",
+      "fileHash": "e45c6d6a",
+      "needsInterop": false
+    },
+    "vue-toastification": {
+      "src": "../../vue-toastification/dist/index.mjs",
+      "file": "vue-toastification.js",
+      "fileHash": "16dcbfa2",
+      "needsInterop": false
+    },
+    "vuetify": {
+      "src": "../../vuetify/lib/framework.mjs",
+      "file": "vuetify.js",
+      "fileHash": "4d54d110",
+      "needsInterop": false
+    },
+    "vuetify/components": {
+      "src": "../../vuetify/lib/components/index.mjs",
+      "file": "vuetify_components.js",
+      "fileHash": "7f755480",
+      "needsInterop": false
+    },
+    "vuetify/directives": {
+      "src": "../../vuetify/lib/directives/index.mjs",
+      "file": "vuetify_directives.js",
+      "fileHash": "441a4c32",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-P4OG6XHG": {
+      "file": "chunk-P4OG6XHG.js"
+    },
+    "chunk-FVZHS5AO": {
+      "file": "chunk-FVZHS5AO.js"
+    },
+    "chunk-7LOWKVPT": {
+      "file": "chunk-7LOWKVPT.js"
+    },
+    "chunk-IPCC3BNQ": {
+      "file": "chunk-IPCC3BNQ.js"
+    },
+    "chunk-B3AKSZXX": {
+      "file": "chunk-B3AKSZXX.js"
+    },
+    "chunk-HAMN77KJ": {
+      "file": "chunk-HAMN77KJ.js"
+    },
+    "chunk-GSVWJQBT": {
+      "file": "chunk-GSVWJQBT.js"
+    },
+    "chunk-S5KM4IGW": {
+      "file": "chunk-S5KM4IGW.js"
+    }
+  }
+}
